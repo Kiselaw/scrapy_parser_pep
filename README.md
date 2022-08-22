@@ -1,4 +1,4 @@
-## Python documentation Scrapy based parser
+## Python PEP parser (Scrapy)
 
 A simple Scrapy based parser that collects data from Python documentation. 
 
